@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,hhnn
-          echo test, and deploy your project.bnnbnn
+          echo test, and deploy your project.bnnbnnbbbxc
   build2:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
